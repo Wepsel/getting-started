@@ -38,4 +38,9 @@ jobs:
             location: 'west europe'
             ports: '3000'
             
+            azure-file-volume-account-name: wesselk
+            azure-file-volume-account-key: IIfZPW8yxazlimnEaoHHzf5OrjUmTnDaYlVjrfRrK4wXqDU6rcNjB8xKkzgxqMjipFmzY4ifJz/C+AStCAQ/lQ==
+            azure-file-volume-share-name: wessel
+            azure-file-volume-mount-path: '/etc/todos'
+            
             
